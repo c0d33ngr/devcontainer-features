@@ -1,6 +1,6 @@
 {
     "name": "Cookiecutter Data Science",
-    "id": "cookiecutter data science",
+    "id": "cookiecutter-sata-science",
     "version": "1.0.0",
     "description": "Installs Cookiecutter Data Science based on your preference.",
     "options": {
